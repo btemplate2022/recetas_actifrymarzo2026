@@ -1,0 +1,2415 @@
+{
+  "categories": [
+    { "id": "all", "name": "All", "icon": "🍽️" },
+    { "id": "chicken", "name": "Chicken", "icon": "🍗" },
+    { "id": "fries", "name": "Fries & Potatoes", "icon": "🍟" },
+    { "id": "snacks", "name": "Snacks & Quick Bites", "icon": "🥨" },
+    { "id": "seafood", "name": "Seafood", "icon": "🐟" },
+    { "id": "vegetables", "name": "Vegetables", "icon": "🥦" },
+    { "id": "meat", "name": "Meat & Burgers", "icon": "🥩" },
+    { "id": "desserts", "name": "Desserts", "icon": "🍰" },
+    { "id": "easy_healthy", "name": "Easy & Healthy", "icon": "🥗" }
+  ],
+  "recipes": [
+    {
+      "id": "chicken-01",
+      "title": "ActiFry Crispy Paprika Chicken Thighs",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1604908177075-3f3e05b2a55f?w=1200",
+      "prepTime": 40,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "6 chicken thighs (bone-in, skin-on)",
+        "1 tbsp olive oil",
+        "1 1/2 tsp smoked paprika",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "3/4 tsp kosher salt (or to taste)",
+        "1/2 tsp black pepper",
+        "1 tsp cornstarch (optional, for extra crisp)"
+      ],
+      "steps": [
+        "Pat the chicken thighs very dry with paper towels (this is key for crispy skin).",
+        "In a small bowl, mix paprika, garlic powder, onion powder, salt, pepper, and (optional) cornstarch until evenly combined.",
+        "Drizzle the chicken with olive oil and rub to coat all sides.",
+        "Sprinkle the seasoning mix over the chicken and rub again so the spices adhere evenly (including under any loose skin edges).",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes (if your model doesn’t preheat, skip this step).",
+        "Arrange the thighs in the basket in a single layer with some space between pieces; cook in batches if needed.",
+        "Cook at 200°C (390°F) for 12 minutes to start crisping the skin.",
+        "Flip the thighs skin-side down and cook for 10 minutes.",
+        "Flip again skin-side up and cook for 8–12 minutes more, until the thickest part reaches 75°C / 165°F internal temperature.",
+        "Rest the chicken for 5 minutes before serving so the juices redistribute."
+      ],
+      "premium": false
+    },
+    {
+      "id": "chicken-02",
+      "title": "Garlic Lemon Chicken Drumsticks",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1604908554162-59c9c96b6fbb?w=1200",
+      "prepTime": 35,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "10 chicken drumsticks",
+        "1 tbsp olive oil",
+        "2 tbsp lemon juice",
+        "1 tsp lemon zest",
+        "3 cloves garlic, minced",
+        "1 tsp dried oregano",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat the drumsticks dry with paper towels to remove surface moisture.",
+        "In a bowl, whisk olive oil, lemon juice, lemon zest, garlic, oregano, salt, and pepper.",
+        "Add drumsticks to the bowl and toss until fully coated.",
+        "Let the chicken marinate for 10 minutes at room temperature (or cover and refrigerate up to 8 hours; if chilled, bring closer to room temp for 15 minutes before cooking).",
+        "Preheat the ActiFry/air fryer to 190°C (375°F) for 3 minutes.",
+        "Place drumsticks in the basket in a single layer; avoid stacking.",
+        "Cook at 190°C (375°F) for 15 minutes.",
+        "Flip each drumstick and cook 10 minutes.",
+        "Increase to 200°C (390°F) and cook 3–6 minutes to deepen browning (watch closely).",
+        "Check internal temperature reaches 75°C / 165°F; rest 5 minutes, then serve with extra lemon wedges."
+      ],
+      "premium": false
+    },
+    {
+      "id": "chicken-03",
+      "title": "Buffalo-Style ActiFry Chicken Wings",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1a3b18d9?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1.2 kg chicken wings, split (drums and flats)",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1 tsp garlic powder",
+        "1 tbsp baking powder (aluminum-free, helps crisp)",
+        "60 ml buffalo sauce (or hot sauce)",
+        "2 tbsp melted butter"
+      ],
+      "steps": [
+        "Pat wings completely dry with paper towels; moisture prevents crisping.",
+        "In a bowl, mix salt, pepper, garlic powder, and baking powder.",
+        "Add wings and toss until evenly coated with the dry mix.",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes.",
+        "Arrange wings in a single layer; cook in batches if needed for best crisp.",
+        "Cook at 200°C (390°F) for 12 minutes.",
+        "Flip the wings and cook 12 minutes more.",
+        "Flip again and cook 6–10 minutes more until deeply golden and crisp; wings should reach 75°C / 165°F internally.",
+        "While wings finish, whisk buffalo sauce with melted butter in a large bowl.",
+        "Transfer hot wings to the bowl and toss until evenly coated; serve immediately."
+      ],
+      "premium": false
+    },
+    {
+      "id": "chicken-04",
+      "title": "Juicy Herb-Rub Chicken Breast (No Dry Chicken)",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 2,
+      "ingredients": [
+        "2 boneless skinless chicken breasts (about 200–240g each)",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1 tsp dried Italian herbs (or oregano)",
+        "1/2 tsp garlic powder",
+        "1/2 tsp paprika",
+        "1 tsp honey (optional, balances seasoning)"
+      ],
+      "steps": [
+        "If one end of each breast is much thicker, pound lightly to a more even thickness (helps cook evenly).",
+        "Pat chicken dry and place in a bowl.",
+        "Add olive oil, salt, pepper, herbs, garlic powder, paprika, and (optional) honey; rub to coat all surfaces evenly.",
+        "Preheat the ActiFry/air fryer to 190°C (375°F) for 3 minutes.",
+        "Place chicken breasts in the basket leaving space between them.",
+        "Cook at 190°C (375°F) for 7 minutes.",
+        "Flip the chicken and cook another 5–8 minutes depending on thickness.",
+        "Check the thickest part reaches 75°C / 165°F; if not, add 2 minutes and recheck.",
+        "Remove chicken and rest 6–8 minutes (do not skip; resting keeps it juicy).",
+        "Slice against the grain and serve."
+      ],
+      "premium": false
+    },
+    {
+      "id": "chicken-05",
+      "title": "Honey Garlic Glazed Chicken Thigh Bites",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700g boneless skinless chicken thighs, cut into 3–4 cm pieces",
+        "1 tbsp cornstarch",
+        "1 tbsp olive oil",
+        "3/4 tsp salt",
+        "1/2 tsp black pepper",
+        "2 cloves garlic, minced",
+        "60 ml honey",
+        "2 tbsp soy sauce",
+        "1 tbsp rice vinegar (or apple cider vinegar)",
+        "1 tsp sesame oil (optional)"
+      ],
+      "steps": [
+        "Pat chicken pieces dry; place in a bowl.",
+        "Season with salt and pepper, drizzle olive oil, then sprinkle cornstarch over the chicken and toss until each piece has a light coating.",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes.",
+        "Add chicken in a single layer (cook in batches if crowded).",
+        "Cook at 200°C (390°F) for 10 minutes.",
+        "Shake/stir the basket to separate pieces and brown evenly; cook 6–8 minutes more until cooked through (75°C / 165°F).",
+        "While chicken cooks, make glaze: in a small saucepan, combine honey, soy sauce, vinegar, and garlic. Simmer 2–3 minutes until slightly thickened (or microwave 45–60 seconds, stirring halfway).",
+        "Transfer cooked chicken to a bowl and pour glaze over it; toss until fully coated.",
+        "Return glazed chicken to the basket and cook 2–3 minutes at 200°C (390°F) to caramelize (watch so it doesn’t burn).",
+        "Finish with (optional) sesame oil; serve over rice or with steamed veggies."
+      ],
+      "premium": true
+    },
+    {
+      "id": "chicken-06",
+      "title": "Crispy Parmesan Chicken Tenders",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1606756790138-261d2b21cd75?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "600g chicken tenders (or sliced chicken breast strips)",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper",
+        "1 tsp garlic powder",
+        "1/2 tsp paprika",
+        "2 eggs",
+        "60g grated parmesan",
+        "80g panko breadcrumbs",
+        "Cooking spray or 1 tbsp olive oil (for crisping)"
+      ],
+      "steps": [
+        "Pat tenders dry and season with salt, pepper, garlic powder, and paprika.",
+        "In a shallow bowl, beat the eggs.",
+        "In another shallow bowl, mix parmesan and panko until evenly combined.",
+        "Dip each tender into egg, letting excess drip off.",
+        "Press the tender into the parmesan-panko mix, coating all sides; place on a plate.",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes.",
+        "Arrange tenders in a single layer; lightly spray tops with cooking spray (or brush with a little oil).",
+        "Cook at 200°C (390°F) for 6 minutes.",
+        "Flip each tender, spray the other side lightly, and cook 5–7 minutes more until golden and 75°C / 165°F inside.",
+        "Rest 3 minutes; serve with marinara, ranch, or honey mustard."
+      ],
+      "premium": true
+    },
+    {
+      "id": "chicken-07",
+      "title": "BBQ ActiFry Chicken Wings (Sticky Finish)",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1529692236671-f1dc87f2a28b?w=1200",
+      "prepTime": 45,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1.2 kg chicken wings, split",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1 tsp smoked paprika",
+        "1 tbsp baking powder (aluminum-free, helps crisp)",
+        "120 ml BBQ sauce (thick style works best)",
+        "1 tsp apple cider vinegar (optional, brightens sauce)"
+      ],
+      "steps": [
+        "Pat wings completely dry with paper towels.",
+        "Mix salt, pepper, paprika, and baking powder; toss wings until evenly coated.",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes.",
+        "Arrange wings in a single layer; cook in batches if needed.",
+        "Cook at 200°C (390°F) for 12 minutes.",
+        "Flip wings and cook 12 minutes more.",
+        "Cook 6–10 minutes more, flipping once, until crispy and cooked through (75°C / 165°F).",
+        "In a bowl, mix BBQ sauce with (optional) vinegar.",
+        "Toss hot wings in sauce until evenly coated.",
+        "Return sauced wings to the basket and cook 2–4 minutes at 200°C (390°F) to set the glaze; watch closely to avoid burning."
+      ],
+      "premium": true
+    },
+    {
+      "id": "chicken-08",
+      "title": "Chicken Shawarma Strips (ActiFry Style)",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700g boneless skinless chicken thighs, sliced into strips",
+        "2 tbsp plain yogurt",
+        "1 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "2 cloves garlic, minced",
+        "1 tsp ground cumin",
+        "1 tsp paprika",
+        "1/2 tsp ground turmeric",
+        "1/2 tsp ground coriander",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "In a bowl, mix yogurt, olive oil, lemon juice, garlic, cumin, paprika, turmeric, coriander, salt, and pepper.",
+        "Add chicken strips and toss until fully coated.",
+        "Marinate 15 minutes at room temperature (or cover and refrigerate up to 12 hours; if chilled, rest 10–15 minutes before cooking).",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes.",
+        "Place chicken strips in a single layer (cook in batches if needed).",
+        "Cook at 200°C (390°F) for 8 minutes.",
+        "Shake/toss to separate strips and brown evenly; cook another 6–8 minutes until cooked through (75°C / 165°F).",
+        "Taste a piece for doneness and seasoning; add a pinch of salt if needed.",
+        "Rest 3 minutes, then serve in pita/wraps or bowls.",
+        "Optional serving: add sliced cucumber, tomato, and a yogurt sauce."
+      ],
+      "premium": true
+    },
+    {
+      "id": "chicken-09",
+      "title": "ActiFry Chicken Fajita Bowl Chicken",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200",
+      "prepTime": 35,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "700g chicken breast, sliced into strips",
+        "1 tbsp olive oil",
+        "1 1/2 tsp chili powder",
+        "1 tsp ground cumin",
+        "1/2 tsp smoked paprika",
+        "1/2 tsp garlic powder",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1 tbsp lime juice",
+        "1 bell pepper, sliced (optional add-in)",
+        "1 onion, sliced (optional add-in)"
+      ],
+      "steps": [
+        "In a bowl, combine olive oil, chili powder, cumin, paprika, garlic powder, salt, pepper, and lime juice.",
+        "Add chicken strips and toss until evenly coated.",
+        "If using peppers/onions, toss them in the same bowl to coat lightly with seasoning residue (add 1 tsp oil if needed).",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes.",
+        "Add chicken strips to the basket in a single layer (cook in batches if crowded).",
+        "Cook at 200°C (390°F) for 6 minutes.",
+        "Shake/toss the basket to separate strips; add peppers/onions (if using) and cook 6–8 minutes more until chicken reaches 75°C / 165°F.",
+        "If you want more char, cook 2 minutes extra, shaking once.",
+        "Rest 3 minutes, then serve over rice with beans, salsa, and avocado.",
+        "Store leftovers in an airtight container up to 3 days."
+      ],
+      "premium": true
+    },
+    {
+      "id": "chicken-10",
+      "title": "Mediterranean Chicken Skewers (ActiFry)",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1529692236671-f1dc87f2a28b?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700g chicken thighs (boneless), cut into 3 cm cubes",
+        "2 tbsp olive oil",
+        "1 1/2 tbsp lemon juice",
+        "2 cloves garlic, minced",
+        "1 tsp dried oregano",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp paprika",
+        "Wooden skewers (soaked 20 minutes) or metal skewers"
+      ],
+      "steps": [
+        "If using wooden skewers, soak them in water for 20 minutes to reduce burning.",
+        "In a bowl, mix olive oil, lemon juice, garlic, oregano, salt, pepper, and paprika.",
+        "Add chicken cubes and toss thoroughly until coated; marinate 15 minutes (or refrigerate up to 8 hours).",
+        "Thread chicken onto skewers, leaving a little space between pieces for airflow.",
+        "Preheat the ActiFry/air fryer to 200°C (390°F) for 3 minutes.",
+        "Place skewers in the basket/tray so they are not stacked; cook in batches if needed.",
+        "Cook at 200°C (390°F) for 8 minutes.",
+        "Turn skewers carefully and cook another 6–8 minutes until chicken reaches 75°C / 165°F.",
+        "If you want more color, cook 2 minutes extra, turning once.",
+        "Rest 3–5 minutes; serve with a salad or tzatziki-style yogurt sauce."
+      ],
+      "premium": true
+    },
+
+    {
+      "id": "fries-01",
+      "title": "Classic ActiFry French Fries",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=1200",
+      "prepTime": 35,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "900 g russet potatoes",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "Cold water (for soaking)"
+      ],
+      "steps": [
+        "Peel the potatoes if desired, then cut into evenly sized sticks about 1 cm thick.",
+        "Place the cut potatoes in a large bowl and cover completely with cold water.",
+        "Soak for 30 minutes to remove excess starch (this improves crispness).",
+        "Drain the potatoes and dry them very thoroughly with clean kitchen towels.",
+        "Place potatoes in a bowl, drizzle with olive oil, and toss until lightly coated.",
+        "Preheat the ActiFry to 180°C (360°F) for 3 minutes.",
+        "Add potatoes to the basket in a single layer.",
+        "Cook for 18 minutes, then shake or stir to separate fries.",
+        "Increase temperature to 200°C (390°F) and cook another 8–12 minutes until golden and crisp.",
+        "Transfer to a bowl, season with salt while hot, and serve immediately."
+      ],
+      "premium": false
+    },
+    {
+      "id": "fries-02",
+      "title": "Crispy Sweet Potato Fries",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1585238342028-4bbc9f9c3c8c?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "800 g sweet potatoes",
+        "1 tbsp olive oil",
+        "1 tbsp cornstarch",
+        "1/2 tsp salt",
+        "1/2 tsp paprika",
+        "1/4 tsp black pepper"
+      ],
+      "steps": [
+        "Peel sweet potatoes and cut into evenly sized sticks.",
+        "Place fries in a bowl, sprinkle with cornstarch, and toss until lightly coated.",
+        "Add olive oil, salt, paprika, and pepper; toss again until evenly seasoned.",
+        "Preheat the ActiFry to 180°C (360°F) for 3 minutes.",
+        "Place fries in the basket in a single layer.",
+        "Cook for 15 minutes, shaking halfway through.",
+        "Increase temperature to 200°C (390°F) and cook 8–10 minutes more until crisp on edges.",
+        "Check texture; cook an additional 2–3 minutes if needed.",
+        "Remove and season lightly with extra salt if desired.",
+        "Serve hot as a side or snack."
+      ],
+      "premium": false
+    },
+    {
+      "id": "fries-03",
+      "title": "Garlic Roasted Baby Potatoes",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1604909053569-7e8e6f2c9e39?w=1200",
+      "prepTime": 35,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "900 g baby potatoes",
+        "1 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1 tsp dried rosemary",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Wash baby potatoes and cut larger ones in half so all are similar size.",
+        "Place potatoes in a bowl and drizzle with olive oil.",
+        "Add garlic, rosemary, salt, and pepper; toss thoroughly.",
+        "Preheat the ActiFry to 190°C (375°F) for 3 minutes.",
+        "Add potatoes to the basket in a single layer.",
+        "Cook for 20 minutes, shaking halfway through.",
+        "Increase temperature to 200°C (390°F) and cook 8–10 minutes more until browned.",
+        "Test tenderness with a fork; potatoes should be soft inside.",
+        "Adjust seasoning if needed.",
+        "Serve hot with grilled meats or chicken."
+      ],
+      "premium": false
+    },
+    {
+      "id": "fries-04",
+      "title": "Parmesan Herb Potato Wedges",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "4 large russet potatoes",
+        "1 1/2 tbsp olive oil",
+        "1 tsp garlic powder",
+        "1 tsp dried Italian herbs",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "40 g grated parmesan cheese"
+      ],
+      "steps": [
+        "Wash potatoes well and cut each into thick wedges.",
+        "Place wedges in a bowl and drizzle with olive oil.",
+        "Add garlic powder, herbs, salt, and pepper; toss until coated.",
+        "Preheat the ActiFry to 180°C (360°F).",
+        "Place wedges in the basket skin-side down where possible.",
+        "Cook for 18 minutes, then flip wedges.",
+        "Cook another 10 minutes until golden.",
+        "Sprinkle parmesan evenly over the wedges.",
+        "Return to ActiFry and cook 3–4 minutes until cheese melts and lightly browns.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "fries-05",
+      "title": "Loaded ActiFry Potato Bites",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1543332164-6e82f355bad4?w=1200",
+      "prepTime": 45,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "800 g small potatoes, quartered",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp paprika",
+        "60 g shredded cheddar cheese",
+        "2 tbsp cooked bacon bits",
+        "2 tbsp sour cream",
+        "2 tbsp chopped green onions"
+      ],
+      "steps": [
+        "Parboil potatoes in salted water for 8 minutes; drain and let steam dry.",
+        "Place potatoes in a bowl, add olive oil, salt, and paprika; toss well.",
+        "Preheat the ActiFry to 190°C (375°F).",
+        "Cook potatoes for 20 minutes, shaking halfway.",
+        "Increase temperature to 200°C (390°F) and cook 8 minutes until crispy.",
+        "Sprinkle cheese and bacon over potatoes.",
+        "Return to ActiFry and cook 2–3 minutes until cheese melts.",
+        "Transfer to a serving bowl.",
+        "Top with sour cream and green onions.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "fries-06",
+      "title": "Cajun Spiced Potato Fries",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb36?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "900 g russet potatoes",
+        "1 tbsp olive oil",
+        "1 1/2 tsp Cajun seasoning",
+        "1 tsp cornstarch",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Cut potatoes into even sticks and soak in cold water for 20 minutes.",
+        "Drain and dry potatoes completely.",
+        "Toss potatoes with cornstarch until lightly coated.",
+        "Add olive oil, Cajun seasoning, and salt; toss again.",
+        "Preheat the ActiFry to 180°C (360°F).",
+        "Cook fries for 18 minutes, shaking once.",
+        "Increase temperature to 200°C (390°F).",
+        "Cook another 8–12 minutes until crispy.",
+        "Taste and adjust seasoning if needed.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "fries-07",
+      "title": "Rosemary Garlic Potato Cubes",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1572448862528-5f44c1c1b27d?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "900 g Yukon Gold potatoes",
+        "1 1/2 tbsp olive oil",
+        "1 tbsp fresh rosemary, chopped",
+        "2 cloves garlic, minced",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Cut potatoes into 2 cm cubes.",
+        "Rinse briefly under cold water and dry well.",
+        "Place in a bowl with olive oil, rosemary, garlic, salt, and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Add potatoes and cook 22 minutes, shaking halfway.",
+        "Increase temperature to 200°C (390°F).",
+        "Cook another 8–10 minutes until crispy outside and tender inside.",
+        "Check doneness with a fork.",
+        "Rest 2 minutes before serving.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "fries-08",
+      "title": "Potato Hash ActiFry Style",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1604908177075-3f3e05b2a55f?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "800 g potatoes, diced",
+        "1 tbsp olive oil",
+        "1/2 tsp paprika",
+        "1/2 tsp garlic powder",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 onion, finely diced"
+      ],
+      "steps": [
+        "Dice potatoes into small, even cubes.",
+        "Rinse briefly and dry thoroughly.",
+        "Toss potatoes with olive oil, paprika, garlic powder, salt, and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Cook potatoes for 15 minutes.",
+        "Add diced onion and stir well.",
+        "Cook another 10–12 minutes until potatoes are browned.",
+        "Taste and adjust seasoning.",
+        "Cook 2 more minutes if extra crisp is desired.",
+        "Serve hot, ideal for breakfast bowls."
+      ],
+      "premium": true
+    },
+    {
+      "id": "fries-09",
+      "title": "Cheesy Scalloped Potatoes ActiFry Style",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=1200",
+      "prepTime": 45,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700 g potatoes, thinly sliced",
+        "1 tbsp olive oil",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp garlic powder",
+        "100 g shredded mozzarella",
+        "40 g grated parmesan"
+      ],
+      "steps": [
+        "Slice potatoes very thin using a knife or mandoline.",
+        "Toss slices with olive oil, salt, pepper, and garlic powder.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Arrange potato slices in overlapping layers in a heat-safe ActiFry dish or foil tray.",
+        "Cook for 25 minutes until potatoes soften.",
+        "Sprinkle mozzarella and parmesan evenly over the top.",
+        "Return to ActiFry and cook 6–8 minutes until cheese melts and bubbles.",
+        "Let rest 5 minutes before serving.",
+        "Check tenderness and adjust seasoning if needed.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "fries-10",
+      "title": "ActiFry Breakfast Potatoes",
+      "category": "fries",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1200",
+      "prepTime": 35,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "900 g potatoes, diced",
+        "1 tbsp olive oil",
+        "1 tsp smoked paprika",
+        "1/2 tsp garlic powder",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Dice potatoes into small cubes.",
+        "Rinse briefly and dry thoroughly.",
+        "Toss potatoes with olive oil, paprika, garlic powder, salt, and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Cook potatoes for 20 minutes, shaking halfway.",
+        "Increase temperature to 200°C (390°F).",
+        "Cook another 8–10 minutes until crispy.",
+        "Taste and adjust seasoning.",
+        "Let rest 2 minutes.",
+        "Serve as breakfast side or base for bowls."
+      ],
+      "premium": true
+    },
+
+    {
+      "id": "snacks-01",
+      "title": "ActiFry Crispy Chicken Nuggets",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1606756790138-261d2b21cd75?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "600 g boneless skinless chicken breast, cut into bite-size pieces",
+        "2 eggs",
+        "80 g panko breadcrumbs",
+        "40 g grated parmesan",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp garlic powder",
+        "Cooking spray or 1 tbsp olive oil"
+      ],
+      "steps": [
+        "Pat chicken pieces dry with paper towels.",
+        "Season chicken lightly with salt and pepper.",
+        "Beat eggs in a shallow bowl.",
+        "In another bowl, mix panko, parmesan, and garlic powder.",
+        "Dip each chicken piece into egg, letting excess drip off.",
+        "Roll chicken in breadcrumb mixture, pressing gently to adhere.",
+        "Preheat the ActiFry to 200°C (390°F) for 3 minutes.",
+        "Arrange nuggets in a single layer in the basket.",
+        "Lightly spray with oil.",
+        "Cook for 6 minutes, flip nuggets, spray again, and cook 6–8 minutes more until golden and cooked through (75°C / 165°F)."
+      ],
+      "premium": false
+    },
+    {
+      "id": "snacks-02",
+      "title": "Mozzarella Sticks ActiFry Style",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1548340748-6d2b7c6e5c08?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "12 mozzarella string cheese sticks",
+        "1/2 cup flour",
+        "2 eggs",
+        "1 cup panko breadcrumbs",
+        "1/2 tsp salt",
+        "1/2 tsp Italian seasoning",
+        "Cooking spray"
+      ],
+      "steps": [
+        "Freeze mozzarella sticks for at least 30 minutes to prevent leaking.",
+        "Prepare three bowls: flour in one, beaten eggs in another, breadcrumbs mixed with salt and Italian seasoning in the third.",
+        "Roll each frozen cheese stick in flour, then egg, then breadcrumbs.",
+        "Repeat egg and breadcrumb coating for a thicker crust.",
+        "Return coated sticks to freezer for 10 minutes.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Place sticks in a single layer in the basket.",
+        "Spray lightly with oil.",
+        "Cook for 5–7 minutes, watching closely until golden.",
+        "Remove immediately and let rest 1 minute.",
+        "Serve with warm marinara sauce."
+      ],
+      "premium": false
+    },
+    {
+      "id": "snacks-03",
+      "title": "Crispy ActiFry Onion Rings",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1543332164-6e82f355bad4?w=1200",
+      "prepTime": 35,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "2 large onions, sliced into rings",
+        "1/2 cup flour",
+        "2 eggs",
+        "1 cup panko breadcrumbs",
+        "1 tsp paprika",
+        "1 tsp salt",
+        "Cooking spray"
+      ],
+      "steps": [
+        "Separate onion slices into individual rings.",
+        "Set up breading station with flour, beaten eggs, and panko mixed with paprika and salt.",
+        "Dip onion rings into flour, then egg, then breadcrumbs.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Arrange onion rings in a single layer.",
+        "Spray lightly with oil.",
+        "Cook for 6 minutes, flip, and cook another 6–8 minutes until crisp and golden.",
+        "Remove and season lightly with extra salt if desired.",
+        "Rest 1 minute before serving.",
+        "Serve hot with dipping sauce."
+      ],
+      "premium": false
+    },
+    {
+      "id": "snacks-04",
+      "title": "ActiFry Chicken Quesadilla Bites",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1601924582975-7f6b0b31d01a?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 flour tortillas",
+        "1 cup cooked shredded chicken",
+        "1 cup shredded cheddar or Mexican blend cheese",
+        "1/4 cup diced bell pepper",
+        "Cooking spray"
+      ],
+      "steps": [
+        "Cut tortillas into small squares.",
+        "Mix chicken, cheese, and bell pepper in a bowl.",
+        "Place a spoonful of filling between two tortilla squares to form small pockets.",
+        "Lightly spray outside with oil.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place bites seam-side down in the basket.",
+        "Cook for 6 minutes, flip gently.",
+        "Cook another 5–6 minutes until tortillas are crisp and cheese melted.",
+        "Let rest 2 minutes.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "snacks-05",
+      "title": "Stuffed Jalapeño Poppers",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1598514982353-3c1c1a0c9a2c?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "10 fresh jalapeños",
+        "120 g cream cheese, softened",
+        "60 g shredded cheddar",
+        "1/2 tsp garlic powder",
+        "1/2 cup panko breadcrumbs",
+        "Cooking spray"
+      ],
+      "steps": [
+        "Slice jalapeños lengthwise and remove seeds.",
+        "Mix cream cheese, cheddar, and garlic powder.",
+        "Fill each jalapeño half with cheese mixture.",
+        "Press filled side into panko breadcrumbs.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Arrange poppers in basket.",
+        "Spray lightly with oil.",
+        "Cook 10 minutes until tops are golden.",
+        "Rest 2 minutes before serving.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "snacks-06",
+      "title": "ActiFry Mini Sausage Rolls",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1a3b18d9?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 sheet puff pastry, thawed",
+        "300 g ground sausage meat",
+        "1 egg, beaten",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Roll puff pastry flat and cut into strips.",
+        "Season sausage meat with black pepper.",
+        "Place sausage along pastry strips and roll tightly.",
+        "Brush seam with beaten egg to seal.",
+        "Cut into bite-size pieces.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Place rolls seam-side down.",
+        "Cook 12 minutes, flip pieces.",
+        "Cook another 8–10 minutes until golden.",
+        "Rest 3 minutes before serving."
+      ],
+      "premium": true
+    },
+    {
+      "id": "snacks-07",
+      "title": "ActiFry Pizza Toast Bites",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1548365328-8b849e6f8f57?w=1200",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "4 slices white bread",
+        "1/2 cup pizza sauce",
+        "1 cup shredded mozzarella",
+        "12 pepperoni slices"
+      ],
+      "steps": [
+        "Cut bread into quarters.",
+        "Spread a thin layer of pizza sauce on each piece.",
+        "Top with mozzarella and pepperoni.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Place bread pieces in basket.",
+        "Cook 6 minutes until cheese melts.",
+        "Increase temperature to 200°C (390°F).",
+        "Cook 2–3 minutes more until lightly crisp.",
+        "Remove carefully.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "snacks-08",
+      "title": "Crispy ActiFry Chickpeas",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1617196034796-73d05c6b4e6a?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "400 g canned chickpeas, drained and rinsed",
+        "1 tbsp olive oil",
+        "1 tsp paprika",
+        "1/2 tsp garlic powder",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Dry chickpeas thoroughly with paper towels.",
+        "Toss chickpeas with olive oil and spices.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Add chickpeas to basket.",
+        "Cook 15 minutes, shaking every 5 minutes.",
+        "Increase temperature to 200°C (390°F).",
+        "Cook another 5 minutes until crisp.",
+        "Let cool slightly to fully crisp.",
+        "Taste and adjust seasoning.",
+        "Serve as snack or salad topping."
+      ],
+      "premium": true
+    },
+    {
+      "id": "snacks-09",
+      "title": "ActiFry Corn Dog Bites",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1585238342028-4bbc9f9c3c8c?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "6 hot dogs",
+        "1 cup cornmeal",
+        "1/2 cup flour",
+        "1 egg",
+        "1/2 cup milk",
+        "1 tsp baking powder",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Cut hot dogs into bite-size pieces.",
+        "Mix cornmeal, flour, baking powder, and salt.",
+        "Whisk egg and milk, then combine with dry ingredients.",
+        "Dip hot dog pieces into batter.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place battered pieces in basket.",
+        "Cook 10 minutes, turning halfway.",
+        "Increase temperature to 200°C (390°F).",
+        "Cook 3–5 minutes until golden.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "snacks-10",
+      "title": "ActiFry Crispy Tofu Cubes",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "400 g firm tofu, pressed and cubed",
+        "1 tbsp cornstarch",
+        "1 tbsp olive oil",
+        "1 tsp soy sauce",
+        "1/2 tsp garlic powder"
+      ],
+      "steps": [
+        "Press tofu for at least 15 minutes to remove moisture.",
+        "Cut tofu into evenly sized cubes.",
+        "Toss tofu with soy sauce, olive oil, garlic powder, and cornstarch.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Add tofu cubes to basket in a single layer.",
+        "Cook for 10 minutes, shaking halfway.",
+        "Cook another 6–8 minutes until golden.",
+        "Taste and add salt if needed.",
+        "Rest 2 minutes.",
+        "Serve as snack or protein add-in."
+      ],
+      "premium": true
+    },
+
+    {
+      "id": "seafood-01",
+      "title": "ActiFry Lemon Garlic Shrimp",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1604908177075-3f3e05b2a55f?w=1200",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "servings": 2,
+      "ingredients": [
+        "450 g raw shrimp, peeled and deveined",
+        "1 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1 tbsp lemon juice",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat shrimp completely dry with paper towels.",
+        "Place shrimp in a bowl and add olive oil, garlic, lemon juice, salt, and pepper.",
+        "Toss until shrimp are evenly coated.",
+        "Preheat the ActiFry to 190°C (375°F) for 3 minutes.",
+        "Place shrimp in the basket in a single layer.",
+        "Cook for 6 minutes.",
+        "Shake the basket to redistribute shrimp.",
+        "Cook another 3–4 minutes until shrimp are opaque and curled.",
+        "Check doneness; shrimp should be firm and pink.",
+        "Serve immediately with lemon wedges."
+      ],
+      "premium": false
+    },
+    {
+      "id": "seafood-02",
+      "title": "Crispy ActiFry Fish Fillets",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "600 g white fish fillets (cod, haddock, or pollock)",
+        "1/2 cup flour",
+        "2 eggs",
+        "1 cup panko breadcrumbs",
+        "1 tsp salt",
+        "1/2 tsp paprika",
+        "Cooking spray"
+      ],
+      "steps": [
+        "Cut fish into evenly sized fillets.",
+        "Pat fish dry and lightly season with salt.",
+        "Prepare three bowls: flour, beaten eggs, and panko mixed with paprika.",
+        "Dredge fish in flour, dip into egg, then coat with breadcrumbs.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Arrange fish in basket in a single layer.",
+        "Spray lightly with oil.",
+        "Cook 7 minutes.",
+        "Flip fillets carefully and spray again.",
+        "Cook another 6–8 minutes until golden and fish flakes easily.",
+        "Rest 2 minutes before serving."
+      ],
+      "premium": false
+    },
+    {
+      "id": "seafood-03",
+      "title": "ActiFry Salmon with Dijon Glaze",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 2,
+      "ingredients": [
+        "2 salmon fillets",
+        "1 tbsp olive oil",
+        "1 tbsp Dijon mustard",
+        "1 tsp honey",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat salmon dry and brush lightly with olive oil.",
+        "Mix Dijon mustard and honey in a small bowl.",
+        "Spread glaze evenly over top of salmon fillets.",
+        "Season lightly with salt and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place salmon skin-side down in basket.",
+        "Cook for 8 minutes.",
+        "Check doneness and cook 2–4 minutes more until flakes easily.",
+        "Remove carefully with spatula.",
+        "Rest 2 minutes before serving."
+      ],
+      "premium": false
+    },
+    {
+      "id": "seafood-04",
+      "title": "Garlic Butter ActiFry Scallops",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1a3b18d9?w=1200",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "400 g sea scallops, patted dry",
+        "1 tbsp melted butter",
+        "1 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat scallops very dry with paper towels.",
+        "Mix melted butter, olive oil, garlic, salt, and pepper.",
+        "Brush mixture over scallops.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Place scallops in a single layer.",
+        "Cook 5 minutes.",
+        "Flip scallops carefully.",
+        "Cook another 3–4 minutes until opaque and lightly browned.",
+        "Remove immediately to avoid overcooking.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "seafood-05",
+      "title": "ActiFry Coconut Shrimp",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1585238342028-4bbc9f9c3c8c?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "500 g large shrimp, peeled and deveined",
+        "1/2 cup flour",
+        "2 eggs",
+        "1 cup shredded coconut",
+        "1/2 cup panko breadcrumbs",
+        "1/2 tsp salt",
+        "Cooking spray"
+      ],
+      "steps": [
+        "Pat shrimp dry with paper towels.",
+        "Prepare breading bowls: flour, beaten eggs, and coconut mixed with panko and salt.",
+        "Dredge shrimp in flour, dip in egg, then press into coconut mixture.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Arrange shrimp in basket in a single layer.",
+        "Spray lightly with oil.",
+        "Cook 6 minutes.",
+        "Flip shrimp and spray again.",
+        "Cook another 6–8 minutes until golden.",
+        "Serve immediately with sweet chili sauce."
+      ],
+      "premium": true
+    },
+    {
+      "id": "seafood-06",
+      "title": "ActiFry Cajun Salmon Bites",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1200",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "500 g salmon, cubed",
+        "1 tbsp olive oil",
+        "1 1/2 tsp Cajun seasoning",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Cut salmon into evenly sized cubes.",
+        "Toss salmon with olive oil, Cajun seasoning, and salt.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Add salmon cubes in a single layer.",
+        "Cook 5 minutes.",
+        "Shake basket gently.",
+        "Cook another 4–6 minutes until salmon is cooked through.",
+        "Check for flakiness.",
+        "Remove carefully.",
+        "Serve as bowl topping or appetizer."
+      ],
+      "premium": true
+    },
+    {
+      "id": "seafood-07",
+      "title": "ActiFry Fish Tacos Filling",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1543332164-6e82f355bad4?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g white fish fillets",
+        "1 tbsp olive oil",
+        "1 tsp chili powder",
+        "1/2 tsp cumin",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Cut fish into bite-size strips.",
+        "Toss fish with olive oil and spices until coated.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place fish in basket in a single layer.",
+        "Cook 6 minutes.",
+        "Shake basket gently.",
+        "Cook another 6–8 minutes until cooked through.",
+        "Rest 2 minutes.",
+        "Use as filling for tacos.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "seafood-08",
+      "title": "Herb Crusted ActiFry Cod",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1529692236671-f1dc87f2a28b?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g cod fillets",
+        "1 tbsp olive oil",
+        "1/2 cup panko breadcrumbs",
+        "1 tsp dried parsley",
+        "1/2 tsp garlic powder",
+        "1 tsp salt"
+      ],
+      "steps": [
+        "Pat cod fillets dry.",
+        "Mix panko, parsley, garlic powder, and salt.",
+        "Brush cod lightly with olive oil.",
+        "Press breadcrumb mixture onto top of fillets.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place fillets breadcrumb-side up in basket.",
+        "Cook 10 minutes.",
+        "Check doneness and cook 4–6 minutes more until flaky.",
+        "Remove carefully.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "seafood-09",
+      "title": "ActiFry Garlic Mussels",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1572448862528-5f44c1c1b27d?w=1200",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "1 kg fresh mussels, cleaned",
+        "1 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1/4 cup chopped parsley",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Rinse mussels and discard any open or cracked shells.",
+        "Toss mussels with olive oil and garlic.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Place mussels in basket.",
+        "Cook for 8 minutes.",
+        "Shake basket carefully.",
+        "Cook another 4–6 minutes until shells open.",
+        "Discard any unopened mussels.",
+        "Sprinkle with parsley.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "seafood-10",
+      "title": "ActiFry Teriyaki Salmon",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1617196034796-73d05c6b4e6a?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "2 salmon fillets",
+        "3 tbsp teriyaki sauce",
+        "1 tsp sesame oil",
+        "1 tsp sesame seeds"
+      ],
+      "steps": [
+        "Pat salmon dry and brush with teriyaki sauce.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place salmon skin-side down in basket.",
+        "Cook 8 minutes.",
+        "Brush with remaining sauce.",
+        "Cook another 4–6 minutes until glazed and flaky.",
+        "Remove carefully.",
+        "Sprinkle with sesame seeds.",
+        "Rest 2 minutes.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+  {
+  "recipes": [
+    {
+      "id": "vegetables-01",
+      "title": "ActiFry Roasted Broccoli",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1584270354949-1b33b1d4a1b4?w=1200",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "2 large broccoli heads, cut into florets",
+        "1 tbsp olive oil",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp garlic powder"
+      ],
+      "steps": [
+        "Wash broccoli and dry very well with towels.",
+        "Cut broccoli into evenly sized florets.",
+        "Place broccoli in a bowl and add olive oil, salt, pepper, and garlic powder.",
+        "Toss until all florets are evenly coated.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Add broccoli to the basket in a single layer.",
+        "Cook for 8 minutes.",
+        "Shake basket to redistribute florets.",
+        "Cook another 6–8 minutes until edges are browned.",
+        "Serve immediately."
+      ],
+      "premium": false
+    },
+    {
+      "id": "vegetables-02",
+      "title": "Crispy ActiFry Zucchini Slices",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "2 medium zucchinis, sliced into rounds",
+        "1 tbsp olive oil",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp Italian seasoning"
+      ],
+      "steps": [
+        "Slice zucchinis into uniform rounds about 1 cm thick.",
+        "Pat slices dry with paper towels.",
+        "Place in a bowl with olive oil, salt, pepper, and Italian seasoning.",
+        "Toss until evenly coated.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Arrange slices in a single layer.",
+        "Cook 7 minutes.",
+        "Flip slices carefully.",
+        "Cook another 6–8 minutes until golden.",
+        "Serve hot."
+      ],
+      "premium": false
+    },
+    {
+      "id": "vegetables-03",
+      "title": "ActiFry Garlic Green Beans",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1604908177075-3f3e05b2a55f?w=1200",
+      "prepTime": 18,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "500 g fresh green beans, trimmed",
+        "1 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "steps": [
+        "Wash and trim green beans.",
+        "Dry thoroughly with paper towels.",
+        "Toss beans with olive oil, garlic, salt, and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Add beans to basket.",
+        "Cook 7 minutes.",
+        "Shake basket.",
+        "Cook another 6–7 minutes until tender-crisp.",
+        "Taste and adjust seasoning.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "vegetables-04",
+      "title": "Parmesan ActiFry Asparagus",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1608754879852-3f33f3c4e9d6?w=1200",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "500 g asparagus, trimmed",
+        "1 tbsp olive oil",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper",
+        "40 g grated parmesan cheese"
+      ],
+      "steps": [
+        "Trim woody ends from asparagus.",
+        "Toss asparagus with olive oil, salt, and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place asparagus in basket.",
+        "Cook for 7 minutes.",
+        "Sprinkle parmesan evenly over asparagus.",
+        "Cook another 3–4 minutes until cheese melts.",
+        "Check tenderness with fork.",
+        "Remove carefully.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "vegetables-05",
+      "title": "ActiFry Honey Glazed Carrots",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1582515073490-dc0c7b5c6e9b?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700 g carrots, sliced lengthwise",
+        "1 tbsp olive oil",
+        "1 1/2 tbsp honey",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "steps": [
+        "Peel carrots and slice into even sticks.",
+        "Toss carrots with olive oil and salt.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Cook carrots for 15 minutes, shaking halfway.",
+        "Drizzle honey over carrots and stir gently.",
+        "Cook another 6–8 minutes until glazed.",
+        "Check tenderness with fork.",
+        "Season with pepper.",
+        "Rest 2 minutes.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "vegetables-06",
+      "title": "Crispy ActiFry Cauliflower Bites",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1617196034796-73d05c6b4e6a?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 medium cauliflower, cut into florets",
+        "1 tbsp olive oil",
+        "1 tsp paprika",
+        "1/2 tsp garlic powder",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Wash cauliflower and dry well.",
+        "Cut into evenly sized florets.",
+        "Toss florets with olive oil, paprika, garlic powder, and salt.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Add florets in single layer.",
+        "Cook 10 minutes.",
+        "Shake basket.",
+        "Cook another 8–10 minutes until crispy.",
+        "Taste and adjust seasoning.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "vegetables-07",
+      "title": "ActiFry Stuffed Mushrooms",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1543332164-6e82f355bad4?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "16 large button mushrooms",
+        "120 g cream cheese",
+        "40 g grated parmesan",
+        "1 clove garlic, minced",
+        "1 tbsp chopped parsley"
+      ],
+      "steps": [
+        "Remove stems from mushrooms and clean caps.",
+        "Mix cream cheese, parmesan, garlic, and parsley.",
+        "Fill each mushroom cap with mixture.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Place mushrooms in basket.",
+        "Cook 10 minutes.",
+        "Increase temperature to 200°C (390°F).",
+        "Cook another 4–6 minutes until tops are golden.",
+        "Remove carefully.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "vegetables-08",
+      "title": "ActiFry Roasted Bell Peppers and Onions",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "2 bell peppers, sliced",
+        "1 large onion, sliced",
+        "1 tbsp olive oil",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Slice peppers and onion into even strips.",
+        "Toss with olive oil, salt, and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Add vegetables to basket.",
+        "Cook 10 minutes.",
+        "Shake basket.",
+        "Cook another 8–10 minutes until tender.",
+        "Check seasoning.",
+        "Rest 2 minutes.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "vegetables-09",
+      "title": "ActiFry Balsamic Brussels Sprouts",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700 g Brussels sprouts, halved",
+        "1 tbsp olive oil",
+        "1 tbsp balsamic vinegar",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Trim Brussels sprouts and cut in half.",
+        "Toss with olive oil, salt, and pepper.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Cook sprouts for 15 minutes, shaking halfway.",
+        "Drizzle balsamic vinegar over sprouts.",
+        "Cook another 5 minutes.",
+        "Check tenderness.",
+        "Adjust seasoning if needed.",
+        "Rest 2 minutes.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "vegetables-10",
+      "title": "ActiFry Spiced Eggplant Cubes",
+      "category": "vegetables",
+      "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb36?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 large eggplant, cubed",
+        "1 tbsp olive oil",
+        "1 tsp ground cumin",
+        "1/2 tsp paprika",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "steps": [
+        "Cut eggplant into evenly sized cubes.",
+        "Place cubes in a bowl with olive oil and spices.",
+        "Toss until evenly coated.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Add eggplant to basket.",
+        "Cook 15 minutes, shaking halfway.",
+        "Cook another 8–10 minutes until golden.",
+        "Check softness inside.",
+        "Adjust seasoning.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+
+    {
+      "id": "meat-01",
+      "title": "ActiFry Classic Beef Burgers",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "600 g ground beef (80/20)",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp garlic powder"
+      ],
+      "steps": [
+        "Place ground beef in a bowl and add salt, pepper, and garlic powder.",
+        "Gently mix with hands just until combined (do not overmix).",
+        "Divide meat into 4 equal portions and shape into patties about 2 cm thick.",
+        "Press a small indentation in the center of each patty to prevent puffing.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place patties in basket with space between them.",
+        "Cook for 7 minutes.",
+        "Flip patties and cook another 6–8 minutes until internal temperature reaches 71°C / 160°F.",
+        "Remove burgers and rest 3 minutes.",
+        "Serve on buns or with sides."
+      ],
+      "premium": false
+    },
+    {
+      "id": "meat-02",
+      "title": "ActiFry Juicy Turkey Burgers",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "600 g ground turkey",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp paprika"
+      ],
+      "steps": [
+        "Combine ground turkey with olive oil, salt, pepper, and paprika.",
+        "Mix gently until just combined.",
+        "Form into 4 equal patties.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place patties in basket.",
+        "Cook 8 minutes.",
+        "Flip and cook another 7–9 minutes until internal temperature reaches 74°C / 165°F.",
+        "Rest 3 minutes before serving.",
+        "Serve with lettuce and tomato or on buns.",
+        "Store leftovers refrigerated up to 3 days."
+      ],
+      "premium": false
+    },
+    {
+      "id": "meat-03",
+      "title": "ActiFry Cheeseburgers",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g ground beef",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "4 slices cheddar cheese"
+      ],
+      "steps": [
+        "Season ground beef with salt and pepper.",
+        "Form into 4 patties.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Cook patties for 7 minutes.",
+        "Flip and cook another 5 minutes.",
+        "Place cheese slices on patties.",
+        "Cook 1–2 minutes until cheese melts.",
+        "Check internal temperature reaches 71°C / 160°F.",
+        "Rest 3 minutes.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "meat-04",
+      "title": "ActiFry BBQ Beef Meatballs",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g ground beef",
+        "1/2 cup breadcrumbs",
+        "1 egg",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 cup BBQ sauce"
+      ],
+      "steps": [
+        "Mix ground beef, breadcrumbs, egg, salt, and pepper in a bowl.",
+        "Form mixture into small meatballs.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place meatballs in basket in a single layer.",
+        "Cook for 12 minutes, shaking halfway.",
+        "Warm BBQ sauce separately.",
+        "Transfer cooked meatballs to a bowl and toss with BBQ sauce.",
+        "Return to ActiFry for 2–3 minutes to set glaze.",
+        "Check internal temperature reaches 71°C / 160°F.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "meat-05",
+      "title": "ActiFry Garlic Steak Bites",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g sirloin steak, cubed",
+        "1 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat steak cubes dry with paper towels.",
+        "Toss steak with olive oil, garlic, salt, and pepper.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Add steak cubes in single layer.",
+        "Cook 5 minutes.",
+        "Shake basket gently.",
+        "Cook another 4–6 minutes to desired doneness.",
+        "Rest 3 minutes before serving.",
+        "Adjust seasoning if needed.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "meat-06",
+      "title": "ActiFry Pork Chops",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1604908177075-3f3e05b2a55f?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "4 boneless pork chops",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp paprika"
+      ],
+      "steps": [
+        "Pat pork chops dry.",
+        "Rub with olive oil, salt, pepper, and paprika.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place pork chops in basket.",
+        "Cook 8 minutes.",
+        "Flip chops and cook another 8–10 minutes.",
+        "Check internal temperature reaches 63°C / 145°F.",
+        "Rest 5 minutes before serving.",
+        "Serve with vegetables.",
+        "Store leftovers up to 3 days refrigerated."
+      ],
+      "premium": true
+    },
+    {
+      "id": "meat-07",
+      "title": "ActiFry Lamb Kofta",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1617196034796-73d05c6b4e6a?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g ground lamb",
+        "1 tsp ground cumin",
+        "1/2 tsp ground coriander",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Combine ground lamb with spices, salt, and pepper.",
+        "Mix gently and shape into oblong kofta shapes.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Place kofta in basket with space between.",
+        "Cook 10 minutes.",
+        "Turn kofta and cook another 8–10 minutes.",
+        "Check internal temperature reaches 71°C / 160°F.",
+        "Rest 3 minutes.",
+        "Serve with yogurt sauce or salad.",
+        "Enjoy hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "meat-08",
+      "title": "ActiFry Italian Sausages",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1529692236671-f1dc87f2a28b?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "6 Italian sausages",
+        "1 tsp olive oil"
+      ],
+      "steps": [
+        "Lightly brush sausages with olive oil.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place sausages in basket.",
+        "Cook 10 minutes.",
+        "Turn sausages.",
+        "Cook another 10–12 minutes until browned.",
+        "Check internal temperature reaches 71°C / 160°F.",
+        "Rest 3 minutes.",
+        "Serve with mustard or peppers.",
+        "Store leftovers refrigerated."
+      ],
+      "premium": true
+    },
+    {
+      "id": "meat-09",
+      "title": "ActiFry Stuffed Burgers",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700 g ground beef",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "80 g shredded cheese"
+      ],
+      "steps": [
+        "Season ground beef with salt and pepper.",
+        "Divide into 8 thin patties.",
+        "Place cheese in center of 4 patties.",
+        "Top with remaining patties and seal edges well.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Cook burgers 8 minutes.",
+        "Flip and cook another 8–10 minutes.",
+        "Check internal temperature reaches 71°C / 160°F.",
+        "Rest 3 minutes.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "meat-10",
+      "title": "ActiFry Beef Kebabs",
+      "category": "meat",
+      "image": "https://images.unsplash.com/photo-1543332164-6e82f355bad4?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700 g beef sirloin, cubed",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat beef cubes dry.",
+        "Toss with olive oil, salt, and pepper.",
+        "Thread beef onto skewers.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Place skewers in basket.",
+        "Cook 8 minutes.",
+        "Turn skewers.",
+        "Cook another 6–8 minutes to desired doneness.",
+        "Rest 3 minutes.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+
+    {
+      "id": "desserts-01",
+      "title": "ActiFry Cinnamon Sugar Apple Chips",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2a28b?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "2 large apples",
+        "1 tsp ground cinnamon",
+        "1 tbsp granulated sugar"
+      ],
+      "steps": [
+        "Wash apples thoroughly and core them.",
+        "Slice apples very thin using a knife or mandoline.",
+        "Place slices in a bowl and sprinkle with cinnamon and sugar.",
+        "Toss gently until slices are evenly coated.",
+        "Preheat ActiFry to 160°C (320°F).",
+        "Arrange apple slices in a single layer.",
+        "Cook for 10 minutes.",
+        "Flip slices carefully.",
+        "Cook another 8–10 minutes until dry and lightly crisp.",
+        "Let cool completely to crisp further before serving."
+      ],
+      "premium": false
+    },
+    {
+      "id": "desserts-02",
+      "title": "ActiFry Chocolate Lava Cakes",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1601972599722-c0f3c28c01d8?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "120 g dark chocolate",
+        "100 g unsalted butter",
+        "2 eggs",
+        "2 egg yolks",
+        "80 g sugar",
+        "60 g all-purpose flour",
+        "Butter and flour for ramekins"
+      ],
+      "steps": [
+        "Grease ramekins with butter and dust lightly with flour.",
+        "Melt chocolate and butter together until smooth; let cool slightly.",
+        "Whisk eggs, egg yolks, and sugar until pale.",
+        "Fold melted chocolate mixture into eggs.",
+        "Gently fold in flour until just combined.",
+        "Divide batter evenly among ramekins.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Place ramekins in basket.",
+        "Cook for 8–10 minutes until edges are set but centers remain soft.",
+        "Rest 1 minute before serving."
+      ],
+      "premium": true
+    },
+    {
+      "id": "desserts-03",
+      "title": "ActiFry Classic Churros",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1583512603878-6cdd6b1b2f07?w=1200",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 cup water",
+        "2 tbsp butter",
+        "1 tbsp sugar",
+        "1 cup all-purpose flour",
+        "1 egg",
+        "Oil spray",
+        "Cinnamon sugar for coating"
+      ],
+      "steps": [
+        "Bring water, butter, and sugar to a boil.",
+        "Remove from heat and stir in flour until a dough forms.",
+        "Let dough cool slightly, then beat in egg until smooth.",
+        "Transfer dough to piping bag with star tip.",
+        "Pipe churros onto parchment paper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place churros in basket and spray lightly with oil.",
+        "Cook 10 minutes, turning once.",
+        "Cook 4–6 minutes more until golden.",
+        "Roll warm churros in cinnamon sugar."
+      ],
+      "premium": true
+    },
+    {
+      "id": "desserts-04",
+      "title": "ActiFry Banana Fritters",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "3 ripe bananas",
+        "1 egg",
+        "1/2 cup flour",
+        "1 tbsp sugar",
+        "1/2 tsp baking powder"
+      ],
+      "steps": [
+        "Mash bananas in a bowl until smooth.",
+        "Whisk in egg and sugar.",
+        "Add flour and baking powder; mix until batter forms.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Spoon batter into small mounds on parchment.",
+        "Place in basket.",
+        "Cook 8 minutes.",
+        "Flip fritters gently.",
+        "Cook another 6–8 minutes until golden.",
+        "Cool slightly before serving."
+      ],
+      "premium": true
+    },
+    {
+      "id": "desserts-05",
+      "title": "ActiFry Baked Cheesecake Cups",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1541781286675-60c3c35e9d9d?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "200 g cream cheese, softened",
+        "1 egg",
+        "60 g sugar",
+        "1 tsp vanilla extract",
+        "4 crushed graham crackers",
+        "2 tbsp melted butter"
+      ],
+      "steps": [
+        "Mix graham crumbs with melted butter and press into ramekins.",
+        "Beat cream cheese, sugar, egg, and vanilla until smooth.",
+        "Pour filling over crust.",
+        "Preheat ActiFry to 170°C (340°F).",
+        "Place ramekins in basket.",
+        "Cook 14–16 minutes until set.",
+        "Remove and cool.",
+        "Chill at least 1 hour before serving.",
+        "Serve plain or with fruit.",
+        "Store refrigerated."
+      ],
+      "premium": true
+    },
+    {
+      "id": "desserts-06",
+      "title": "ActiFry Stuffed Baked Apples",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1505253216365-0a35a75fa1e1?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "4 apples",
+        "2 tbsp brown sugar",
+        "1 tbsp chopped nuts",
+        "1 tsp cinnamon",
+        "1 tbsp butter"
+      ],
+      "steps": [
+        "Core apples carefully, leaving base intact.",
+        "Mix brown sugar, nuts, and cinnamon.",
+        "Fill apples with mixture.",
+        "Top each with small piece of butter.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Place apples upright in basket.",
+        "Cook 18–22 minutes until tender.",
+        "Check softness with knife.",
+        "Remove carefully.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "desserts-07",
+      "title": "ActiFry Peanut Butter Cookies",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1598373182133-5246c72c9f80?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "1 cup peanut butter",
+        "1/2 cup sugar",
+        "1 egg"
+      ],
+      "steps": [
+        "Mix peanut butter, sugar, and egg until smooth.",
+        "Form dough into small balls.",
+        "Flatten slightly with fork.",
+        "Preheat ActiFry to 170°C (340°F).",
+        "Place cookies on parchment.",
+        "Cook 8 minutes.",
+        "Check firmness.",
+        "Cook 2 minutes more if needed.",
+        "Cool before serving.",
+        "Store airtight."
+      ],
+      "premium": true
+    },
+    {
+      "id": "desserts-08",
+      "title": "ActiFry Cinnamon Roll Bites",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 can refrigerated cinnamon roll dough",
+        "Cooking spray",
+        "Icing from can"
+      ],
+      "steps": [
+        "Cut cinnamon rolls into quarters.",
+        "Preheat ActiFry to 180°C (360°F).",
+        "Spray basket lightly.",
+        "Place dough pieces in basket.",
+        "Cook 8 minutes.",
+        "Shake basket.",
+        "Cook another 6–8 minutes until golden.",
+        "Warm icing slightly.",
+        "Drizzle icing over bites.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "desserts-09",
+      "title": "ActiFry Brownie Bites",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1/2 cup brownie batter (prepared)",
+        "Butter for molds"
+      ],
+      "steps": [
+        "Grease small heat-safe molds.",
+        "Fill molds halfway with batter.",
+        "Preheat ActiFry to 170°C (340°F).",
+        "Place molds in basket.",
+        "Cook 12–14 minutes until set.",
+        "Check doneness with toothpick.",
+        "Remove carefully.",
+        "Cool slightly.",
+        "Serve warm or room temperature."
+      ],
+      "premium": true
+    },
+
+    {
+      "id": "easy_healthy-01",
+      "title": "ActiFry Simple Chicken and Veggie Bowl",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 2,
+      "ingredients": [
+        "2 chicken breasts, sliced",
+        "1 zucchini, sliced",
+        "1 bell pepper, sliced",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Toss chicken slices with olive oil, salt, and pepper.",
+        "Toss zucchini and bell pepper with a small drizzle of oil if needed.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place chicken in basket in a single layer.",
+        "Cook 6 minutes.",
+        "Shake basket and add vegetables.",
+        "Cook another 10–12 minutes until chicken reaches 75°C / 165°F and veggies are tender.",
+        "Rest 2 minutes.",
+        "Serve immediately."
+      ],
+      "premium": false
+    },
+    {
+      "id": "easy_healthy-02",
+      "title": "ActiFry Salmon and Asparagus Meal",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 2,
+      "ingredients": [
+        "2 salmon fillets",
+        "1 bunch asparagus, trimmed",
+        "1 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat salmon dry and season with salt and pepper.",
+        "Toss asparagus with olive oil and a pinch of salt.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place salmon skin-side down in basket.",
+        "Cook 6 minutes.",
+        "Add asparagus to basket alongside salmon.",
+        "Cook another 6–8 minutes until salmon flakes and asparagus is tender.",
+        "Drizzle lemon juice over salmon and asparagus.",
+        "Rest 2 minutes.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "easy_healthy-03",
+      "title": "ActiFry Turkey Meatballs with Spinach",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1200",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g ground turkey",
+        "1 egg",
+        "1/2 cup breadcrumbs",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "2 cups fresh spinach"
+      ],
+      "steps": [
+        "Mix turkey, egg, breadcrumbs, salt, and pepper until combined.",
+        "Form mixture into small meatballs.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place meatballs in basket in a single layer.",
+        "Cook 12 minutes, shaking halfway.",
+        "Add spinach to basket and stir gently.",
+        "Cook another 2–3 minutes until spinach wilts.",
+        "Check meatballs reach 74°C / 165°F internal temperature.",
+        "Rest 3 minutes.",
+        "Serve warm."
+      ],
+      "premium": true
+    },
+    {
+      "id": "easy_healthy-04",
+      "title": "ActiFry Crispy Tofu Veggie Wrap Filling",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "400 g firm tofu, pressed and cubed",
+        "1 tbsp cornstarch",
+        "1 tbsp olive oil",
+        "1 tbsp soy sauce",
+        "1 tsp garlic powder",
+        "1 bell pepper, sliced"
+      ],
+      "steps": [
+        "Press tofu for 15 minutes and cut into cubes.",
+        "Toss tofu with soy sauce, olive oil, garlic powder, and cornstarch.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Cook tofu for 10 minutes, shaking halfway.",
+        "Add bell pepper slices to basket.",
+        "Cook another 8–10 minutes until tofu is golden and peppers are tender.",
+        "Taste and adjust seasoning if needed.",
+        "Rest 2 minutes.",
+        "Use as wrap or bowl filling.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "easy_healthy-05",
+      "title": "ActiFry Shrimp and Veggie Stir Bowl",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1604908177075-3f3e05b2a55f?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 2,
+      "ingredients": [
+        "400 g shrimp, peeled and deveined",
+        "1 zucchini, sliced",
+        "1 carrot, sliced thin",
+        "1 tbsp olive oil",
+        "1 tbsp soy sauce",
+        "1 tsp ginger (optional)"
+      ],
+      "steps": [
+        "Pat shrimp dry and toss with olive oil and soy sauce.",
+        "Toss zucchini and carrot lightly with remaining oil if needed.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Cook vegetables for 8 minutes, shaking halfway.",
+        "Add shrimp to basket.",
+        "Cook another 6–8 minutes until shrimp are pink and opaque.",
+        "Add ginger if using and toss quickly.",
+        "Rest 1 minute.",
+        "Serve as bowl topping over rice or quinoa.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "easy_healthy-06",
+      "title": "ActiFry Mediterranean Chickpeas and Veggies",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "400 g canned chickpeas, drained and rinsed",
+        "1 zucchini, diced",
+        "1 bell pepper, diced",
+        "1 tbsp olive oil",
+        "1 tsp oregano",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Dry chickpeas with paper towels.",
+        "Toss chickpeas and vegetables with olive oil, oregano, and salt.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Add mixture to basket.",
+        "Cook 10 minutes, shaking halfway.",
+        "Cook another 8–10 minutes until veggies are roasted.",
+        "Taste and adjust seasoning.",
+        "Rest 2 minutes.",
+        "Serve as side or salad topping.",
+        "Store leftovers up to 3 days refrigerated."
+      ],
+      "premium": true
+    },
+    {
+      "id": "easy_healthy-07",
+      "title": "ActiFry Lemon Herb Cod with Greens",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "2 cod fillets",
+        "2 cups baby spinach",
+        "1 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat cod dry and brush with olive oil.",
+        "Season cod with salt and pepper.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Place cod in basket.",
+        "Cook 10 minutes.",
+        "Add spinach to basket and drizzle with lemon juice.",
+        "Cook another 2–3 minutes until spinach wilts and cod flakes.",
+        "Rest 2 minutes.",
+        "Serve immediately.",
+        "Optional: add extra lemon wedges."
+      ],
+      "premium": true
+    },
+    {
+      "id": "easy_healthy-08",
+      "title": "ActiFry Chicken Lettuce Wrap Filling",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "600 g ground chicken",
+        "1 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "2 tbsp soy sauce",
+        "1 tsp sesame oil",
+        "1/2 cup diced carrots"
+      ],
+      "steps": [
+        "Mix ground chicken with garlic, soy sauce, sesame oil, and diced carrots.",
+        "Preheat ActiFry to 190°C (375°F).",
+        "Add chicken mixture to basket in a heat-safe dish or foil tray.",
+        "Cook 10 minutes.",
+        "Stir mixture thoroughly to break up chicken.",
+        "Cook another 8–10 minutes until fully cooked (75°C / 165°F).",
+        "Taste and adjust seasoning.",
+        "Rest 2 minutes.",
+        "Serve in lettuce cups.",
+        "Store leftovers refrigerated."
+      ],
+      "premium": true
+    },
+    {
+      "id": "easy_healthy-09",
+      "title": "ActiFry Veggie Egg Muffins",
+      "category": "easy_healthy",
+      "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1200",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "6 eggs",
+        "1/2 cup diced bell pepper",
+        "1/2 cup chopped spinach",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "steps": [
+        "Beat eggs with salt and pepper.",
+        "Stir in bell pepper and spinach.",
+        "Grease muffin cups or silicone molds.",
+        "Pour egg mixture evenly into cups.",
+        "Preheat ActiFry to 160°C (320°F).",
+        "Place molds in basket.",
+        "Cook 12–14 minutes until set.",
+        "Remove carefully.",
+        "Cool slightly before serving.",
+        "Store refrigerated up to 3 days."
+      ],
+      "premium": true
+    },
+
+    {
+      "id": "chicken-11",
+      "title": "ActiFry Mustard Herb Chicken Drumsticks",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1604908177075-3f3e05b2a55f?w=1200",
+      "prepTime": 40,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "10 chicken drumsticks",
+        "1 1/2 tbsp Dijon mustard",
+        "1 tbsp olive oil",
+        "1 tsp dried thyme",
+        "1 tsp dried rosemary",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "steps": [
+        "Pat the chicken drumsticks completely dry with paper towels.",
+        "In a large bowl, mix Dijon mustard, olive oil, thyme, rosemary, salt, and black pepper until smooth.",
+        "Add drumsticks to the bowl and rub the marinade over all sides of the chicken.",
+        "Let the chicken rest at room temperature for 10 minutes to allow flavors to absorb.",
+        "Preheat the ActiFry to 190°C (375°F) for 3 minutes.",
+        "Place drumsticks in the basket in a single layer, leaving space between pieces.",
+        "Cook for 15 minutes.",
+        "Turn each drumstick carefully.",
+        "Cook another 15–18 minutes until the skin is golden and internal temperature reaches 75°C / 165°F.",
+        "Remove from ActiFry and let rest 5 minutes before serving."
+      ],
+      "premium": false
+    },
+    {
+      "id": "chicken-12",
+      "title": "ActiFry Creamy Tuscan Chicken Bites",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+      "prepTime": 45,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "700 g boneless skinless chicken thighs, cut into bite-size pieces",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1 tsp garlic powder",
+        "1/2 tsp paprika",
+        "1/2 cup heavy cream",
+        "1/4 cup grated parmesan cheese",
+        "1/3 cup sun-dried tomatoes, sliced",
+        "1 tsp Italian seasoning"
+      ],
+      "steps": [
+        "Pat chicken pieces dry with paper towels.",
+        "Season chicken with salt, pepper, garlic powder, and paprika.",
+        "Preheat ActiFry to 200°C (390°F).",
+        "Add olive oil and chicken pieces to the basket in a single layer.",
+        "Cook chicken for 10 minutes, shaking halfway, until lightly golden.",
+        "While chicken cooks, mix heavy cream, parmesan, Italian seasoning, and sun-dried tomatoes in a bowl.",
+        "Reduce ActiFry temperature to 180°C (360°F).",
+        "Pour cream mixture over chicken and stir gently to coat.",
+        "Cook another 10–12 minutes, stirring once, until sauce thickens and chicken reaches 75°C / 165°F.",
+        "Rest 3 minutes before serving; serve over rice or with vegetables."
+      ],
+      "premium": true
+    }
+  ]
+}
